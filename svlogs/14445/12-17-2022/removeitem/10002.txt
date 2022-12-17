@@ -836,3 +836,4 @@ BAG:admin remove Rada cấp 1 lydo: Mặc cho đệ tử at 12/17/2022 10:19 PM
 BAG:admin remove Giày cao su đế dày lydo: Mặc cho đệ tử at 12/17/2022 10:19 PM
 BAG:admin remove Cải trang Black Gohan Rose lydo: Mặc cho đệ tử at 12/17/2022 10:19 PM
 BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 12/17/2022 10:20 PM
+BAG:admin remove 1xĐậu thần cấp 10 lydo: Ăn đậu at 12/17/2022 10:52 PM

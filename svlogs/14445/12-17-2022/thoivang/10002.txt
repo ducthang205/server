@@ -29,3 +29,4 @@ Char: admin, tên tài khoản admin1 (ID:25089), Thỏi vàng trên người 49
 Char: admin, tên tài khoản admin1 (ID:25089), Thỏi vàng trên người 4943, thỏi vàng trong rương 0 at 12/17/2022 8:36 PM
 Char: admin, tên tài khoản admin1 (ID:25089), Thỏi vàng trên người 4691, thỏi vàng trong rương 0 at 12/17/2022 9:06 PM
 Char: admin, tên tài khoản admin1 (ID:25089), Thỏi vàng trên người 4675, thỏi vàng trong rương 0 at 12/17/2022 9:16 PM
+Char: admin, tên tài khoản admin1 (ID:25089), Thỏi vàng trên người 4675, thỏi vàng trong rương 0 at 12/17/2022 10:40 PM

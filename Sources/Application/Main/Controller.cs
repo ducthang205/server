@@ -4302,11 +4302,11 @@ namespace NRO_Server.Application.Main
                             return;
                         }
 
-                        // if (isOnline)
-                        // {
-                        //     _session.SendMessage(Service.DialogMessage("Tài khoản này hiện đang online trong máy chủ"));
-                        //     return;
-                        // }
+                        if (isOnline)
+                        {
+                            _session.SendMessage(Service.DialogMessage("Tài khoản này hiện đang online trong máy chủ"));
+                            return;
+                        }
 
                         if (thoiGianDangNhap > timeServerSec)
                         {
