@@ -1,0 +1,415 @@
+BAG:admin add 1xKiếm Z lydo: Mua từ cửa hàng at 12/17/2022 2:03 PM
+BAG:admin add 1xNgọc Rồng 1 sao lydo: Admin at 12/17/2022 2:06 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Mua từ cửa hàng at 12/17/2022 3:22 PM
+BAG:admin add 1xCải trang lydo: Admin at 12/17/2022 3:24 PM
+BAG:admin add 1xQuần vải thô lydo: Admin at 12/17/2022 3:24 PM
+BAG:admin add 1xNgọc Rồng 5 sao lydo: Admin at 12/17/2022 3:25 PM
+BAG:admin add 1xNgọc Rồng 2 sao lydo: Admin at 12/17/2022 3:25 PM
+BAG:admin add 1xNgọc Rồng 3 sao lydo: Admin at 12/17/2022 3:25 PM
+BAG:admin add 1xViên Capsule đặc biệt lydo: Mua từ cửa hàng at 12/17/2022 3:25 PM
+BAG:admin add 1xAvatar VIP lydo: Ước NR at 12/17/2022 3:26 PM
+BAG:admin add 1xÁo vải 3 lỗ lydo: Admin at 12/17/2022 3:30 PM
+BAG:admin add 1xÁo vải thô lydo: Admin at 12/17/2022 3:30 PM
+BAG:admin add 1xQuần vải thô lydo: Admin at 12/17/2022 3:32 PM
+BAG:admin add 1xRada cấp 1 lydo: Admin at 12/17/2022 3:33 PM
+BAG:admin add 1xGăng vải thô lydo: Admin at 12/17/2022 3:34 PM
+BAG:admin add 1xGiầy vải thô lydo: Admin at 12/17/2022 3:34 PM
+BAG:admin add 99xNgọc Rồng 3 sao lydo: Admin at 12/17/2022 3:36 PM
+BAG:admin add 1xCải trang Black Gohan Rose lydo: Admin at 12/17/2022 3:36 PM
+BAG:admin add 4xSao pha lê (old: 2) lydo: Admin at 12/17/2022 3:41 PM
+BAG:admin add 1xSao pha lê lydo: Admin at 12/17/2022 3:41 PM
+BAG:admin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 12/17/2022 3:42 PM
+BAG:admin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 12/17/2022 3:42 PM
+BAG:admin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 12/17/2022 3:42 PM
+BAG:admin add 1xGiáp tập luyện cấp 1 lydo: Admin at 12/17/2022 3:43 PM
+BAG:admin add 99xĐậu thần cấp 9 lydo: Admin at 12/17/2022 3:43 PM
+BAG:admin add 1xGăng Thần Linh lydo: Admin at 12/17/2022 3:45 PM
+BAG:admin add 1xLưỡi hái Thần Chết lydo: Admin at 12/17/2022 3:46 PM
+BAG:admin add 1xNón thiên thần lydo: Admin at 12/17/2022 3:46 PM
+BAG:admin add 1xCải trang Black Goku SSJ White lydo: Admin at 12/17/2022 3:47 PM
+BAG:admin add 1xCải trang Siêu Goku Tarzan lydo: Admin at 12/17/2022 3:47 PM
+BAG:admin add 99xMảnh Đội trưởng Vàng lydo: Admin at 12/17/2022 3:48 PM
+BAG:admin add 1xCải trang Broly lydo: Admin at 12/17/2022 3:49 PM
+BAG:admin add 1xHoa đăng lydo: Admin at 12/17/2022 3:49 PM
+BAG:admin add 1xĐá lục bảo lydo: Nhặt từ map at 12/17/2022 3:50 PM
+BAG:admin add 1xGăng Kaio lydo: Admin at 12/17/2022 3:50 PM
+BAG:admin add 1xĐá Saphia lydo: Nhặt từ map at 12/17/2022 3:53 PM
+BAG:admin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 12/17/2022 3:53 PM
+BAG:admin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 12/17/2022 3:53 PM
+BAG:admin add 1xĐá Titan lydo: Nhặt từ map at 12/17/2022 3:54 PM
+BAG:admin add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 12/17/2022 3:56 PM
+BAG:admin add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 12/17/2022 3:59 PM
+BAG:admin add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 12/17/2022 4:02 PM
+BAG:admin add 1xLồng đèn Kéo Quân lydo: Admin at 12/17/2022 4:05 PM
+BAG:admin add 2xĐá Saphia (old: 1) lydo: Nhặt từ map at 12/17/2022 4:05 PM
+BAG:admin add 1xLồng đèn Cá chép lydo: Admin at 12/17/2022 4:06 PM
+BAG:admin add 3xĐá Saphia (old: 2) lydo: Nhặt từ map at 12/17/2022 4:06 PM
+BAG:admin add 1xKiếm Z lydo: Admin at 12/17/2022 4:06 PM
+BAG:admin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Admin at 12/17/2022 4:07 PM
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 12/17/2022 4:08 PM
+BAG:admin add 1xCải trang lydo: Mua từ cửa hàng at 12/17/2022 4:12 PM
+BAG:admin add 4xĐá Titan (old: 3) lydo: Nhặt từ map at 12/17/2022 4:17 PM
+BAG:admin add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 12/17/2022 4:18 PM
+BAG:admin add 7xNgọc Rồng 4 sao (old: 6) lydo: Nhặt từ map at 12/17/2022 4:20 PM
+BAG:admin add 1xĐá Ruby lydo: Nhặt từ map at 12/17/2022 4:20 PM
+BAG:admin add 6xNgọc Rồng 7 sao (old: 5) lydo: Nhặt từ map at 12/17/2022 4:20 PM
+BAG:admin add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 12/17/2022 4:20 PM
+BAG:admin add 8xNgọc Rồng 4 sao (old: 7) lydo: Nhặt từ map at 12/17/2022 4:24 PM
+BAG:admin add 3xĐá Ruby (old: 2) lydo: Nhặt từ map at 12/17/2022 4:25 PM
+BAG:admin add 1xCải trang lydo: Admin at 12/17/2022 4:25 PM
+BAG:admin add 4xĐá Saphia (old: 3) lydo: Nhặt từ map at 12/17/2022 4:26 PM
+BAG:admin add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 12/17/2022 4:28 PM
+BAG:admin add 4xĐá Ruby (old: 3) lydo: Nhặt từ map at 12/17/2022 4:28 PM
+BAG:admin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 12/17/2022 4:31 PM
+BAG:admin add 5xĐá Saphia (old: 4) lydo: Nhặt từ map at 12/17/2022 4:31 PM
+BAG:admin add 9xNgọc Rồng 4 sao (old: 8) lydo: Nhặt từ map at 12/17/2022 4:32 PM
+BAG:admin add 6xĐá Saphia (old: 5) lydo: Nhặt từ map at 12/17/2022 4:37 PM
+BAG:admin add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 12/17/2022 4:38 PM
+BAG:admin add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 12/17/2022 4:39 PM
+BAG:admin add 5xĐá Titan (old: 4) lydo: Nhặt từ map at 12/17/2022 4:40 PM
+BAG:admin add 7xĐá Saphia (old: 6) lydo: Nhặt từ map at 12/17/2022 4:40 PM
+BAG:admin add 10xNgọc Rồng 4 sao (old: 9) lydo: Nhặt từ map at 12/17/2022 4:44 PM
+BAG:admin add 8xĐá Saphia (old: 7) lydo: Nhặt từ map at 12/17/2022 4:45 PM
+BAG:admin add 1xNgọc Rồng 5 sao lydo: Nhặt từ map at 12/17/2022 4:46 PM
+BAG:admin add 11xNgọc Rồng 4 sao (old: 10) lydo: Nhặt từ map at 12/17/2022 4:46 PM
+BAG:admin add 5xĐá lục bảo (old: 4) lydo: Nhặt từ map at 12/17/2022 4:47 PM
+BAG:admin add 9xĐá Saphia (old: 8) lydo: Nhặt từ map at 12/17/2022 4:48 PM
+BAG:admin add 12xNgọc Rồng 4 sao (old: 11) lydo: Nhặt từ map at 12/17/2022 4:50 PM
+BAG:admin add 5xNgọc Rồng 6 sao (old: 4) lydo: Nhặt từ map at 12/17/2022 4:50 PM
+BAG:admin add 5xĐá Ruby (old: 4) lydo: Nhặt từ map at 12/17/2022 4:51 PM
+BAG:admin add 5xĐá thạch anh tím (old: 4) lydo: Nhặt từ map at 12/17/2022 4:51 PM
+BAG:admin add 6xĐá lục bảo (old: 5) lydo: Nhặt từ map at 12/17/2022 4:51 PM
+BAG:admin add 13xNgọc Rồng 4 sao (old: 12) lydo: Nhặt từ map at 12/17/2022 4:51 PM
+BAG:admin add 6xĐá thạch anh tím (old: 5) lydo: Nhặt từ map at 12/17/2022 4:52 PM
+BAG:admin add 10xĐá Saphia (old: 9) lydo: Nhặt từ map at 12/17/2022 4:52 PM
+BAG:admin add 6xĐá Ruby (old: 5) lydo: Nhặt từ map at 12/17/2022 4:53 PM
+BAG:admin add 7xĐá Ruby (old: 6) lydo: Nhặt từ map at 12/17/2022 4:53 PM
+BAG:admin add 14xNgọc Rồng 4 sao (old: 13) lydo: Nhặt từ map at 12/17/2022 4:54 PM
+BAG:admin add 2xNgọc Rồng 5 sao (old: 1) lydo: Nhặt từ map at 12/17/2022 4:55 PM
+BAG:admin add 15xNgọc Rồng 4 sao (old: 14) lydo: Nhặt từ map at 12/17/2022 4:55 PM
+BAG:admin add 7xĐá thạch anh tím (old: 6) lydo: Nhặt từ map at 12/17/2022 4:55 PM
+BAG:admin add 16xNgọc Rồng 4 sao (old: 15) lydo: Nhặt từ map at 12/17/2022 4:56 PM
+BAG:admin add 8xĐá thạch anh tím (old: 7) lydo: Nhặt từ map at 12/17/2022 4:58 PM
+BAG:admin add 3xNgọc Rồng 5 sao (old: 2) lydo: Nhặt từ map at 12/17/2022 4:59 PM
+BAG:admin add 11xĐá Saphia (old: 10) lydo: Nhặt từ map at 12/17/2022 4:59 PM
+BAG:admin add 7xĐá lục bảo (old: 6) lydo: Nhặt từ map at 12/17/2022 5:01 PM
+BAG:admin add 7xNgọc Rồng 7 sao (old: 6) lydo: Nhặt từ map at 12/17/2022 5:03 PM
+BAG:admin add 8xĐá lục bảo (old: 7) lydo: Nhặt từ map at 12/17/2022 5:04 PM
+BAG:admin add 17xNgọc Rồng 4 sao (old: 16) lydo: Nhặt từ map at 12/17/2022 5:05 PM
+BAG:admin add 4xNgọc Rồng 5 sao (old: 3) lydo: Nhặt từ map at 12/17/2022 5:06 PM
+BAG:admin add 9xĐá lục bảo (old: 8) lydo: Nhặt từ map at 12/17/2022 5:06 PM
+BAG:admin add 10xĐá lục bảo (old: 9) lydo: Nhặt từ map at 12/17/2022 5:06 PM
+BAG:admin add 11xĐá lục bảo (old: 10) lydo: Nhặt từ map at 12/17/2022 5:07 PM
+BAG:admin add 6xĐá Titan (old: 5) lydo: Nhặt từ map at 12/17/2022 5:07 PM
+BAG:admin add 12xĐá lục bảo (old: 11) lydo: Nhặt từ map at 12/17/2022 5:08 PM
+BAG:admin add 7xĐá Titan (old: 6) lydo: Nhặt từ map at 12/17/2022 5:08 PM
+BAG:admin add 12xĐá Saphia (old: 11) lydo: Nhặt từ map at 12/17/2022 5:09 PM
+BAG:admin add 18xNgọc Rồng 4 sao (old: 17) lydo: Nhặt từ map at 12/17/2022 5:09 PM
+BAG:admin add 8xĐá Ruby (old: 7) lydo: Nhặt từ map at 12/17/2022 5:10 PM
+BAG:admin add 9xĐá Ruby (old: 8) lydo: Nhặt từ map at 12/17/2022 5:11 PM
+BAG:admin add 9xĐá thạch anh tím (old: 8) lydo: Nhặt từ map at 12/17/2022 5:12 PM
+BAG:admin add 1xCải trang Black Gohan Rose lydo: Admin at 12/17/2022 5:14 PM
+BAG:admin add 10xĐá thạch anh tím (old: 9) lydo: Nhặt từ map at 12/17/2022 5:14 PM
+BAG:admin add 8xĐá Titan (old: 7) lydo: Nhặt từ map at 12/17/2022 5:15 PM
+BAG:admin add 13xĐá Saphia (old: 12) lydo: Nhặt từ map at 12/17/2022 5:15 PM
+BAG:admin add 1xÁo vải 3 lỗ lydo: Admin at 12/17/2022 5:15 PM
+BAG:admin add 1xGiầy đồng lydo: Admin at 12/17/2022 5:16 PM
+BAG:admin add 1xGiày Thần Linh lydo: Admin at 12/17/2022 5:16 PM
+BAG:admin add 1xGăng Thần Xayda lydo: Admin at 12/17/2022 5:17 PM
+BAG:admin add 11xĐá thạch anh tím (old: 10) lydo: Nhặt từ map at 12/17/2022 6:32 PM
+BAG:admin add 9xĐá Titan (old: 8) lydo: Nhặt từ map at 12/17/2022 6:34 PM
+BAG:admin add 14xĐá Saphia (old: 13) lydo: Nhặt từ map at 12/17/2022 6:40 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 6:41 PM
+BAG:admin add 10xĐá Titan (old: 9) lydo: Nhặt từ map at 12/17/2022 6:41 PM
+BAG:admin add 1xMảnh vỡ bông tai lydo: Admin at 12/17/2022 6:41 PM
+BAG:admin add 1xMảnh vỡ bông tai lydo: Admin at 12/17/2022 6:41 PM
+BAG:admin add 6xNgọc Rồng 6 sao (old: 5) lydo: Nhặt từ map at 12/17/2022 6:42 PM
+BAG:admin add 1xBông tai Porata lydo: Admin at 12/17/2022 6:44 PM
+BAG:admin add 99xĐá xanh lam lydo: Admin at 12/17/2022 6:44 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 6:46 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Admin at 12/17/2022 6:47 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Admin at 12/17/2022 6:47 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Admin at 12/17/2022 6:48 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Admin at 12/17/2022 6:48 PM
+BAG:admin add 1xSách đấm Dragon lv2 lydo: Admin at 12/17/2022 6:48 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Admin at 12/17/2022 6:48 PM
+BAG:admin add 1xÁo Hủy Diệt lydo: Admin at 12/17/2022 6:49 PM
+BAG:admin add 1xQuần Hủy Diệt lydo: Admin at 12/17/2022 6:49 PM
+BAG:admin add 1xGiầy Hủy Diệt lydo: Admin at 12/17/2022 6:50 PM
+BAG:admin add 1xNhẫn Hủy Diệt lydo: Admin at 12/17/2022 6:50 PM
+BAG:admin add 1xSách đấm Dragon lv2 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xSách đấm Dragon lv3 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xSách đấm Dragon lv4 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xSách đấm Dragon lv5 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xSách đấm Dragon lv6 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xSách đấm Dragon lv7 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xKaioken lv1 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xKaioken lv2 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xKaioken lv3 lydo: Mua từ cửa hàng at 12/17/2022 6:51 PM
+BAG:admin add 1xKaioken lv4 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xKaioken lv5 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xKaioken lv6 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xKaioken lv7 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Dịch Chuyển lv1 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Dịch Chuyển lv2 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Dịch Chuyển lv3 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Dịch Chuyển lv4 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Dịch Chuyển lv5 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Dịch Chuyển lv6 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Dịch Chuyển lv7 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Kamejoko lv1 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Kamejoko lv2 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Kamejoko lv3 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Kamejoko lv4 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Kamejoko lv5 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Kamejoko lv6 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Kamejoko lv7 lydo: Mua từ cửa hàng at 12/17/2022 6:52 PM
+BAG:admin add 1xSách Thôi Miên lv1 lydo: Mua từ cửa hàng at 12/17/2022 6:53 PM
+BAG:admin add 1xSách Thôi Miên lv2 lydo: Mua từ cửa hàng at 12/17/2022 6:53 PM
+BAG:admin add 1xSách Thôi Miên lv3 lydo: Mua từ cửa hàng at 12/17/2022 6:53 PM
+BAG:admin add 1xSách Thôi Miên lv4 lydo: Mua từ cửa hàng at 12/17/2022 6:53 PM
+BAG:admin add 1xSách Thôi Miên lv5 lydo: Mua từ cửa hàng at 12/17/2022 6:53 PM
+BAG:admin add 1xSách Thôi Miên lv6 lydo: Mua từ cửa hàng at 12/17/2022 6:53 PM
+BAG:admin add 1xSách Thôi Miên lv7 lydo: Mua từ cửa hàng at 12/17/2022 6:53 PM
+BAG:admin add 1xKhiên năng lượng lv1 lydo: Mua từ cửa hàng at 12/17/2022 6:53 PM
+BAG:admin add 1xNhẫn thời không sai lệch lydo: Nhặt từ map at 12/17/2022 7:04 PM
+BAG:admin add 1xÁo Hủy Diệt lydo: Lấy từ body vào hành trang at 12/17/2022 7:07 PM
+BAG:admin add 1xQuần Hủy Diệt lydo: Lấy từ body vào hành trang at 12/17/2022 7:08 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 12/17/2022 7:09 PM
+BAG:admin add 1xNhẫn Hủy Diệt lydo: Lấy từ body vào hành trang at 12/17/2022 7:10 PM
+BAG:admin add 1xGiầy Hủy Diệt lydo: Lấy từ body vào hành trang at 12/17/2022 7:10 PM
+BAG:admin add 7xNgọc Rồng 1 sao lydo: Admin at 12/17/2022 7:16 PM
+BAG:admin add 7xNgọc Rồng 2 sao lydo: Admin at 12/17/2022 7:16 PM
+BAG:admin add 21xNgọc Rồng 3 sao (old: 14) lydo: Admin at 12/17/2022 7:16 PM
+BAG:admin add 7xNgọc Rồng 4 sao lydo: Admin at 12/17/2022 7:16 PM
+BAG:admin add 7xNgọc Rồng 5 sao lydo: Admin at 12/17/2022 7:16 PM
+BAG:admin add 13xNgọc Rồng 6 sao (old: 6) lydo: Admin at 12/17/2022 7:17 PM
+BAG:admin add 7xNgọc Rồng 7 sao lydo: Admin at 12/17/2022 7:17 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 12/17/2022 7:20 PM
+BAG:admin add 99xCuồng nộ lydo: Admin at 12/17/2022 7:20 PM
+BAG:admin add 99xBổ huyết lydo: Admin at 12/17/2022 7:21 PM
+BAG:admin add 99xGiáp Xên bọ hung lydo: Admin at 12/17/2022 7:21 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 12/17/2022 7:24 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 12/17/2022 7:26 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 12/17/2022 7:27 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 12/17/2022 7:29 PM
+BAG:admin add 1xCân đẩu vân VIP lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xKhiên năng lượng lv2 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xKhiên năng lượng lv3 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xKhiên năng lượng lv4 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xKhiên năng lượng lv5 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xKhiên năng lượng lv6 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xKhiên năng lượng lv7 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xQuả cầu Kênh Khi lv1 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xQuả cầu Kênh Khi lv2 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xQuả cầu Kênh Khi lv3 lydo: Mua từ cửa hàng at 12/17/2022 7:30 PM
+BAG:admin add 1xQuả cầu Kênh Khi lv4 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xQuả cầu Kênh Khi lv5 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xQuả cầu Kênh Khi lv6 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xQuả cầu Kênh Khi lv7 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xThái Dương Hạ San lv1 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xThái Dương Hạ San lv2 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xThái Dương Hạ San lv3 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xThái Dương Hạ San lv4 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xThái Dương Hạ San lv5 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xThái Dương Hạ San lv6 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xThái Dương Hạ San lv7 lydo: Mua từ cửa hàng at 12/17/2022 7:31 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 12/17/2022 7:32 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 12/17/2022 7:36 PM
+BAG:admin add 1xÁo vải thô lydo: Lấy từ body đệ vào hành trang at 12/17/2022 7:40 PM
+BAG:admin add 1xGăng Thần Xayda lydo: Lấy từ body đệ vào hành trang at 12/17/2022 7:40 PM
+BAG:admin add 1xQuần vải thô lydo: Lấy từ body đệ vào hành trang at 12/17/2022 7:40 PM
+BAG:admin add 1xGiầy vải thô lydo: Lấy từ body đệ vào hành trang at 12/17/2022 7:40 PM
+BAG:admin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 12/17/2022 7:40 PM
+BAG:admin add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 12/17/2022 7:40 PM
+BAG:admin add 1xGăng vải Kame lydo: Mua từ cửa hàng at 12/17/2022 7:41 PM
+BAG:admin add 1xGiày cao su đế dày lydo: Mua từ cửa hàng at 12/17/2022 7:41 PM
+BAG:admin add 1xÁo thun Kame lydo: Mua từ cửa hàng at 12/17/2022 7:41 PM
+BAG:admin add 1xQuần thun Kame lydo: Mua từ cửa hàng at 12/17/2022 7:41 PM
+BAG:admin add 14xNgọc Rồng 3 sao lydo: Admin at 12/17/2022 7:46 PM
+BAG:admin add 99xNgọc Rồng 3 sao (old: 14) lydo: Admin at 12/17/2022 7:46 PM
+BAG:admin add 2xSao pha lê lydo: Admin at 12/17/2022 7:49 PM
+BAG:admin add 1xSao pha lê lydo: Admin at 12/17/2022 7:49 PM
+BAG:admin add 1xNâng cấp kỹ năng 1 đệ tử lydo: Mua từ cửa hàng at 12/17/2022 7:50 PM
+BAG:admin add 2xNâng cấp kỹ năng 1 đệ tử (old: 1) lydo: Mua từ cửa hàng at 12/17/2022 7:50 PM
+BAG:admin add 3xNâng cấp kỹ năng 1 đệ tử (old: 2) lydo: Mua từ cửa hàng at 12/17/2022 7:50 PM
+BAG:admin add 4xNâng cấp kỹ năng 1 đệ tử (old: 3) lydo: Mua từ cửa hàng at 12/17/2022 7:50 PM
+BAG:admin add 5xNâng cấp kỹ năng 1 đệ tử (old: 4) lydo: Mua từ cửa hàng at 12/17/2022 7:50 PM
+BAG:admin add 6xNâng cấp kỹ năng 1 đệ tử (old: 5) lydo: Mua từ cửa hàng at 12/17/2022 7:50 PM
+BAG:admin add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 12/17/2022 7:51 PM
+BAG:admin add 1xĐá lục bảo lydo: Nhặt từ map at 12/17/2022 7:52 PM
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 12/17/2022 7:53 PM
+BAG:admin add 1xĐá Titan lydo: Nhặt từ map at 12/17/2022 7:54 PM
+BAG:admin add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 12/17/2022 7:54 PM
+BAG:admin add 6xNâng cấp kỹ năng 2 đệ tử lydo: Admin at 12/17/2022 7:55 PM
+BAG:admin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 12/17/2022 7:55 PM
+BAG:admin add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 12/17/2022 7:55 PM
+BAG:admin add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 12/17/2022 8:09 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 8:11 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 8:12 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 8:13 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 8:13 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 8:13 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 8:13 PM
+BAG:admin add 99xMảnh hồn bông tai lydo: Admin at 12/17/2022 8:13 PM
+BAG:admin add 1xÁo thun Kame lydo: Lấy từ body đệ vào hành trang at 12/17/2022 8:14 PM
+BAG:admin add 1xQuần thun Kame lydo: Lấy từ body đệ vào hành trang at 12/17/2022 8:15 PM
+BAG:admin add 1xGăng vải Kame lydo: Lấy từ body đệ vào hành trang at 12/17/2022 8:15 PM
+BAG:admin add 1xGiày cao su đế dày lydo: Lấy từ body đệ vào hành trang at 12/17/2022 8:15 PM
+BAG:admin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 12/17/2022 8:15 PM
+BAG:admin add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 12/17/2022 8:15 PM
+BAG:admin add 1xNgọc Rồng 4 sao lydo: Nhặt từ map at 12/17/2022 8:15 PM
+BAG:admin add 99xĐậu thần cấp 10 lydo: Admin at 12/17/2022 8:37 PM
+BAG:admin add 1xNgọc Rồng 7 sao lydo: Nhặt từ map at 12/17/2022 8:39 PM
+BAG:admin add 6xNâng cấp kỹ năng 4 đệ tử lydo: Admin at 12/17/2022 8:40 PM
+BAG:admin add 6xNâng cấp kỹ năng 3 đệ tử lydo: Admin at 12/17/2022 8:41 PM
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 12/17/2022 8:44 PM
+BAG:admin add 1xĐá Titan lydo: Nhặt từ map at 12/17/2022 8:44 PM
+BAG:admin add 97xĐậu thần cấp 10 lydo: Admin at 12/17/2022 8:45 PM
+BAG:admin add 99xĐậu thần cấp 10 (old: 97) lydo: Admin at 12/17/2022 8:45 PM
+BAG:admin add 96xĐậu thần cấp 10 lydo: Admin at 12/17/2022 8:45 PM
+BAG:admin add 99xĐậu thần cấp 10 (old: 96) lydo: Admin at 12/17/2022 8:45 PM
+BAG:admin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 12/17/2022 8:46 PM
+BAG:admin add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 12/17/2022 8:47 PM
+BAG:admin add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 12/17/2022 8:47 PM
+BAG:admin add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 12/17/2022 8:47 PM
+BAG:admin add 3xĐá Titan (old: 2) lydo: Nhặt từ map at 12/17/2022 8:47 PM
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 12/17/2022 8:49 PM
+BAG:admin add 1xÁo Thần Linh lydo: Admin at 12/17/2022 8:50 PM
+BAG:admin add 1xNhẫn Thần Linh lydo: Admin at 12/17/2022 8:50 PM
+BAG:admin add 1xĐá Titan lydo: Nhặt từ map at 12/17/2022 8:50 PM
+BAG:admin add 1xQuần Thần Linh lydo: Admin at 12/17/2022 8:50 PM
+BAG:admin add 1xGiày Thần Linh lydo: Admin at 12/17/2022 8:50 PM
+BAG:admin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 12/17/2022 8:51 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:51 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:52 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:52 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:53 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:53 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:53 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:54 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:54 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:54 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:54 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:54 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:54 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:55 PM
+BAG:admin add 99xMì ly lydo: Admin at 12/17/2022 8:55 PM
+BAG:admin add 99xSushi lydo: Admin at 12/17/2022 8:55 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:55 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:55 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:55 PM
+BAG:admin add 4865xThỏi vàng (old: 4864) lydo: Mua từ cửa hàng at 12/17/2022 8:56 PM
+BAG:admin add 4866xThỏi vàng (old: 4865) lydo: Mua từ cửa hàng at 12/17/2022 8:56 PM
+BAG:admin add 4867xThỏi vàng (old: 4866) lydo: Mua từ cửa hàng at 12/17/2022 8:56 PM
+BAG:admin add 1xĐá thạch anh tím lydo: Nhặt từ map at 12/17/2022 8:57 PM
+BAG:admin add 4868xThỏi vàng (old: 4867) lydo: Mua từ cửa hàng at 12/17/2022 8:57 PM
+BAG:admin add 4869xThỏi vàng (old: 4868) lydo: Mua từ cửa hàng at 12/17/2022 8:57 PM
+BAG:admin add 4870xThỏi vàng (old: 4869) lydo: Mua từ cửa hàng at 12/17/2022 8:57 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:57 PM
+BAG:admin add 99xMì ly lydo: Admin at 12/17/2022 8:57 PM
+BAG:admin add 99xSushi lydo: Admin at 12/17/2022 8:57 PM
+BAG:admin add 1xHộp quà Tết 2019 lydo: Admin at 12/17/2022 8:57 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:57 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:57 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:57 PM
+BAG:admin add 99xBánh Pudding lydo: Admin at 12/17/2022 8:58 PM
+BAG:admin add 99xXúc xích lydo: Admin at 12/17/2022 8:58 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:58 PM
+BAG:admin add 99xMì ly lydo: Admin at 12/17/2022 8:58 PM
+BAG:admin add 99xSushi lydo: Admin at 12/17/2022 8:58 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:58 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:58 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:58 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:58 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:58 PM
+BAG:admin add 99xBánh Pudding lydo: Admin at 12/17/2022 8:59 PM
+BAG:admin add 99xXúc xích lydo: Admin at 12/17/2022 8:59 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 8:59 PM
+BAG:admin add 99xMì ly lydo: Admin at 12/17/2022 8:59 PM
+BAG:admin add 99xSushi lydo: Admin at 12/17/2022 8:59 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:59 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:59 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:59 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:59 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 8:59 PM
+BAG:admin add 4767xThỏi vàng (old: 4766) lydo: Mua từ cửa hàng at 12/17/2022 9:00 PM
+BAG:admin add 4768xThỏi vàng (old: 4767) lydo: Mua từ cửa hàng at 12/17/2022 9:00 PM
+BAG:admin add 4769xThỏi vàng (old: 4768) lydo: Mua từ cửa hàng at 12/17/2022 9:00 PM
+BAG:admin add 1xĐá lục bảo lydo: Nhặt từ map at 12/17/2022 9:00 PM
+BAG:admin add 4770xThỏi vàng (old: 4769) lydo: Mua từ cửa hàng at 12/17/2022 9:00 PM
+BAG:admin add 4771xThỏi vàng (old: 4770) lydo: Mua từ cửa hàng at 12/17/2022 9:00 PM
+BAG:admin add 99xBánh Pudding lydo: Admin at 12/17/2022 9:00 PM
+BAG:admin add 99xXúc xích lydo: Admin at 12/17/2022 9:01 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 9:01 PM
+BAG:admin add 99xMì ly lydo: Admin at 12/17/2022 9:01 PM
+BAG:admin add 99xSushi lydo: Admin at 12/17/2022 9:01 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:01 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:01 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:01 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:01 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:01 PM
+BAG:admin add 99xBánh Pudding lydo: Admin at 12/17/2022 9:01 PM
+BAG:admin add 99xXúc xích lydo: Admin at 12/17/2022 9:01 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 9:02 PM
+BAG:admin add 99xMì ly lydo: Admin at 12/17/2022 9:02 PM
+BAG:admin add 99xSushi lydo: Admin at 12/17/2022 9:02 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:02 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:02 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:02 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:02 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:02 PM
+BAG:admin add 1xKem dâu lydo: Admin at 12/17/2022 9:06 PM
+BAG:admin add 99xKem dâu (old: 1) lydo: Admin at 12/17/2022 9:06 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:06 PM
+BAG:admin add 99xKem dâu lydo: Admin at 12/17/2022 9:07 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Mua từ bill at 12/17/2022 9:07 PM
+BAG:admin add 1xĐá Ruby lydo: Nhặt từ map at 12/17/2022 9:09 PM
+BAG:admin add 2xĐá lục bảo (old: 1) lydo: Nhặt từ map at 12/17/2022 9:09 PM
+BAG:admin add 1xĐá Titan lydo: Nhặt từ map at 12/17/2022 9:10 PM
+BAG:admin add 3xĐá lục bảo (old: 2) lydo: Nhặt từ map at 12/17/2022 9:11 PM
+BAG:admin add 2xĐá thạch anh tím (old: 1) lydo: Nhặt từ map at 12/17/2022 9:11 PM
+BAG:admin add 3xĐá thạch anh tím (old: 2) lydo: Nhặt từ map at 12/17/2022 9:11 PM
+BAG:admin add 1xNgọc Rồng 6 sao lydo: Nhặt từ map at 12/17/2022 9:11 PM
+BAG:admin add 4xĐá thạch anh tím (old: 3) lydo: Nhặt từ map at 12/17/2022 9:12 PM
+BAG:admin add 2xĐá Titan (old: 1) lydo: Nhặt từ map at 12/17/2022 9:13 PM
+BAG:admin add 2xĐá Ruby (old: 1) lydo: Nhặt từ map at 12/17/2022 9:13 PM
+BAG:admin add 4xĐá lục bảo (old: 3) lydo: Nhặt từ map at 12/17/2022 9:14 PM
+BAG:admin add 7xNgọc Rồng 1 sao lydo: Admin at 12/17/2022 9:15 PM
+BAG:admin add 7xNgọc Rồng 2 sao lydo: Admin at 12/17/2022 9:15 PM
+BAG:admin add 14xNgọc Rồng 2 sao (old: 7) lydo: Admin at 12/17/2022 9:15 PM
+BAG:admin add 75xNgọc Rồng 3 sao (old: 68) lydo: Admin at 12/17/2022 9:15 PM
+BAG:admin add 7xNgọc Rồng 4 sao lydo: Admin at 12/17/2022 9:15 PM
+BAG:admin add 1xQuần vải thô lydo: Admin at 12/17/2022 9:15 PM
+BAG:admin add 8xNgọc Rồng 6 sao (old: 1) lydo: Admin at 12/17/2022 9:15 PM
+BAG:admin add 7xNgọc Rồng 7 sao lydo: Admin at 12/17/2022 9:15 PM
+BAG:admin add 7xNgọc Rồng 5 sao lydo: Admin at 12/17/2022 9:16 PM
+BAG:admin add 7xĐậu thần cấp 1 lydo: Admin at 12/17/2022 9:17 PM
+BAG:admin add 14xĐậu thần cấp 1 (old: 7) lydo: Admin at 12/17/2022 9:18 PM
+BAG:admin add 7xNgọc Rồng 1 sao lydo: Admin at 12/17/2022 9:18 PM
+BAG:admin add 14xNgọc Rồng 2 sao (old: 7) lydo: Admin at 12/17/2022 9:18 PM
+BAG:admin add 75xNgọc Rồng 3 sao (old: 68) lydo: Admin at 12/17/2022 9:18 PM
+BAG:admin add 8xNgọc Rồng 4 sao lydo: Admin at 12/17/2022 9:18 PM
+BAG:admin add 8xNgọc Rồng 6 sao (old: 1) lydo: Admin at 12/17/2022 9:18 PM
+BAG:admin add 7xNgọc Rồng 7 sao lydo: Admin at 12/17/2022 9:18 PM
+BAG:admin add 7xNgọc Rồng 5 sao lydo: Admin at 12/17/2022 9:18 PM
+BAG:admin add 13xNgọc Rồng 1 sao (old: 6) lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 20xNgọc Rồng 1 sao (old: 13) lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 20xNgọc Rồng 2 sao (old: 13) lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 81xNgọc Rồng 3 sao (old: 74) lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 14xNgọc Rồng 4 sao (old: 7) lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 13xNgọc Rồng 5 sao (old: 6) lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 14xNgọc Rồng 6 sao (old: 7) lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 1xQuần vải thô Pico lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 13xNgọc Rồng 7 sao (old: 6) lydo: Admin at 12/17/2022 9:19 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Lấy từ body vào hành trang at 12/17/2022 9:19 PM
+BAG:admin add 6xNâng cấp kỹ năng 2 đệ tử lydo: Admin at 12/17/2022 9:21 PM
+BAG:admin add 6xNâng cấp kỹ năng 3 đệ tử lydo: Admin at 12/17/2022 9:21 PM
+BAG:admin add 1xGiáp tập luyện cấp 3 lydo: Lấy từ body vào hành trang at 12/17/2022 9:22 PM
+BAG:admin add 1xÁo thun Kame lydo: Lấy từ body đệ vào hành trang at 12/17/2022 10:17 PM
+BAG:admin add 1xQuần thun Kame lydo: Lấy từ body đệ vào hành trang at 12/17/2022 10:17 PM
+BAG:admin add 1xGăng Hủy Diệt lydo: Lấy từ body đệ vào hành trang at 12/17/2022 10:17 PM
+BAG:admin add 1xGiày cao su đế dày lydo: Lấy từ body đệ vào hành trang at 12/17/2022 10:17 PM
+BAG:admin add 1xRada cấp 1 lydo: Lấy từ body đệ vào hành trang at 12/17/2022 10:19 PM
+BAG:admin add 1xCải trang Black Gohan Rose lydo: Lấy từ body đệ vào hành trang at 12/17/2022 10:19 PM
+BAG:admin add 1xNhẫn thời không sai lệch lydo: Nhặt từ map at 12/17/2022 10:20 PM
